@@ -206,7 +206,10 @@ body {
 .about .info p {
   color: #ccc;
   font-size: 14px;
-  text-align: center;
+}
+
+.left-text {
+  text-align: left;
 }
 
 .about .info button {
