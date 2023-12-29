@@ -21,7 +21,7 @@ body {
 }
 
 .navbar h2 {
-  color: #97b1d4;
+  color: #212529;
   font-weight: 600;
 }
 
@@ -607,4 +607,24 @@ footer .cols .news-col form button i {
     font-size: 12px;
   }
 
+}
+
+.logo {
+  position: absolute;
+  top: 22px;
+  left: 22px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 48px;
+}
+
+.logo a {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #97b1d4;
 }
